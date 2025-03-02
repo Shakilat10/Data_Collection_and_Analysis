@@ -61,4 +61,4 @@ sales trends, and potential problems in the online purchasing process.
 ## 🛠 How to Run the Project  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Shakilat10/Data_Collection_and_Analysis.git
+   git clone https://github.com/Shakilat10/Data_Collection_and_Analysis/blob/main/README.md
