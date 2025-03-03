@@ -1,4 +1,4 @@
-# 📉 Car Sales Analysis  
+# 📉 Vehicles Sales Analysis  
 
 ## 📌 Project Overview  
 This project analyzes sales transaction data to identify the main causes of declining sales for an vehicales retail company. Apply Python-based analytics, analyse customer behavior, 
