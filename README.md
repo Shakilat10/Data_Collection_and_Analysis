@@ -80,9 +80,3 @@ Large deal sizes (0.62) have the stronger positive impact on sales, while small 
 Opportunities: Expand sales strategies in APAC and Ireland.
 More focus on high-value product segments like Classic and Vintage cars.
 Investigate and address December's sales decline through targeted promotions or pricing adjustments.
-
-
-## 🛠 How to Run the Project  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Shakilat10/Data_Collection_and_Analysis/blob/main/README.md
